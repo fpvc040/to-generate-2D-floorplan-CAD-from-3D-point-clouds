@@ -1,0 +1,3 @@
+/home/taru/Desktop/to-generate-2D-floorplan-CAD-from-3D-point-clouds/CMakeFiles/rebuild_cache.dir
+/home/taru/Desktop/to-generate-2D-floorplan-CAD-from-3D-point-clouds/CMakeFiles/edit_cache.dir
+/home/taru/Desktop/to-generate-2D-floorplan-CAD-from-3D-point-clouds/CMakeFiles/floorplan.dir
